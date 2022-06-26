@@ -311,7 +311,7 @@ input[type="submit"], input[type="reset"]{
     width: 100%;
     height: auto; overflow: hidden;
     font-family: 'Montserrat';
-    line-height: 120%;
+    line-height: 22px;
     display: flex;
     justify-content: center;
     text-align:center;
